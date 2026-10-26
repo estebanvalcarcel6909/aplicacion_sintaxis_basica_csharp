@@ -52,7 +52,7 @@ class Program
         Console.WriteLine("\n=== CONTROL DE ACCESO ===");
 
         int intentos = 0;
-        string clave = "sena2026";
+        string clave = "sena2025";
         string claveIngresada = "";
 
         while (claveIngresada != clave && intentos < 3)
