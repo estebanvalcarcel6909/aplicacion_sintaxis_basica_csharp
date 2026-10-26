@@ -128,7 +128,11 @@ El desarrollo de esta actividad permite reforzar los fundamentos de C#, comprend
 
 ---
 
+## Nota:
+
+## la clave es sena2025
+
 **Programa:** Análisis y Desarrollo de Software (ADSO)  
 **Institución:** SENA  
 **Actividad:** Aplicación de la sintaxis básica de C#  
-**Aprendiz:** [Escribe tu nombre]
+**Aprendiz:** Esteban valcarcel
