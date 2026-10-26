@@ -98,15 +98,25 @@ Para compilar el proyecto sin ejecutarlo:
 dotnet build
 ```
 
-## Evidencias de ejecucion
-
-![alt text](image.png)
-
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-
 Estos comandos deben ejecutarse desde la ubicación correspondiente y utilizando los nombres reales de las carpetas y proyectos.
+
+## Evidencias de la actividad
+
+### Evidencia 1
+
+![Evidencia 1](evidencias/image.png)
+
+### Evidencia 2
+
+![Evidencia 2](evidencias/image-1.png)
+
+### Evidencia 3
+
+![Evidencia 3](evidencias/image-2.png)
+
+### Evidencia 4
+
+![Evidencia 4](evidencias/image-3.png)
 
 ## Organización del código
 
