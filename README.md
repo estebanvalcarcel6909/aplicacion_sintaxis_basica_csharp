@@ -127,8 +127,11 @@ Los ejercicios se organizan en carpetas y archivos de código fuente con extensi
 El desarrollo de esta actividad permite reforzar los fundamentos de C#, comprender las estructuras básicas de programación y avanzar hacia la construcción de aplicaciones de consola. Además, facilita la práctica de la lógica de programación, la organización del código y el uso de herramientas de desarrollo y control de versiones.
 
 ---
+## Nota:
+la clave es sena2026
+---
 
 **Programa:** Análisis y Desarrollo de Software (ADSO)  
 **Institución:** SENA  
 **Actividad:** Aplicación de la sintaxis básica de C#  
-**Aprendiz:** [Escribe tu nombre]
+**Aprendiz:** Esteban valcarcel
